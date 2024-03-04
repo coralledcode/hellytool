@@ -615,11 +615,6 @@ def findrscover(V, E, C = [], verbose = True):
     rscovers = []
     print(con, len(con),2**len(con))
 
-    for v in V2:
-        for etemp in E3:
-            
-        while
-        for i in range()
     for n in range(2**len(con)):
  #       Cstr = []
         C2 = []
